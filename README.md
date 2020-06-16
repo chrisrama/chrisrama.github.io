@@ -18,14 +18,25 @@ contact details
 [linkedIn](https://www.lInkedin.com/in/christian-ramazani-aa3887183)
 
 **Skills and Interests**
-.Aerospace 
-Astronomy
-computer science
-education
-informatics
-Substainability Technology
-Intenet of Things
-4th indudtrial revolution,
-artificial intelligence
-entrepreneurship
-STEM
+
+1) Aerospace 
+
+2) Astronomy
+
+3) computer science
+
+4) education
+
+5) informatics
+
+6) Substainability Technology
+
+7) Intenet of Things
+
+8) 4th indudtrial revolution,
+
+9) artificial intelligence
+
+10) entrepreneurship
+
+11) STEM
