@@ -1,4 +1,3 @@
-# chrisrama.github.io
 # hello there
 welcome to christian's official website,here you will learn about me and what I like doing.
 
