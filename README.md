@@ -8,7 +8,8 @@ I enjoy working so hard in everything I do. peolpe describe me as a hard working
 i am currently a member at [the new york academy of sciences](https;//www.nyas.org/) as a member of [the junior academy](https://joinlaunchpad.com/#/profile/9670)
 I also enjoy working on cultural programs so to know how to work better with people. *the new york academy of sciences* is one of the great places to do so. I also like doing researches about we should oneday be living.
 
-School: [cape academy of mathematics, science & technology](https://www.camst.org)
+School: [cape academy of mathematics, science & technology](https://www.camst.co.za/)
+
 Grade: 10
 
 Date of birth: 05-02-2004 (16years)
