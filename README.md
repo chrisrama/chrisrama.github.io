@@ -1,5 +1,6 @@
 # chrisrama.github.io
-My personal website. I will give all things you need to know about me.
+# hello there
+welcome to christian's official website,here you will learn about me and what I like doing.
 
 Date of birth: 05-02-2004 (16years)
 
