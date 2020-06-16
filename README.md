@@ -6,3 +6,5 @@ Date of birth: 05-02-2004 (16years)
 social media links
 -
 [facebook](https://www.facebook.com/chris.rama.798)
+
+[twitter](https://www.twitter.com/Chrisrama6?s=09)
