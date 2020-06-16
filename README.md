@@ -40,3 +40,20 @@ contact details
 10) Entrepreneurship
 
 11) STEM
+
+# Languages
+English 
+
+French
+
+Swhahili
+
+# HOBBIES
+
+Likes watching science and tech shows
+
+Reading Books
+
+Building and Designing
+
+Playing soccer
