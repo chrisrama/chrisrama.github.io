@@ -1,4 +1,5 @@
-# hello there
+[Image](https://drive.google.com/file/d/1Fr-GqyGFyFU6sEaTHqzVMrJveOD2vIV3/view?usp=sharing)
+# Hello there
 welcome to christian's official website,here you will learn about me and what I like doing.
 
 # About Me
@@ -22,11 +23,11 @@ contact details
 
 2) Astronomy
 
-3) computer science
+3) Computer science
 
-4) education
+4) Education
 
-5) informatics
+5) Informatics
 
 6) Substainability Technology
 
@@ -34,8 +35,8 @@ contact details
 
 8) 4th indudtrial revolution,
 
-9) artificial intelligence
+9) Artificial intelligence
 
-10) entrepreneurship
+10) Entrepreneurship
 
 11) STEM
