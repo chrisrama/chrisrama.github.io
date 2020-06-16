@@ -12,3 +12,4 @@ contact details
 
 [linkedIn](https://www.lInkedin.com/in/christian-ramazani-aa3887183)
 
+Skills and Interests
