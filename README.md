@@ -67,14 +67,14 @@ Playing soccer
 
 Project 
 -------------------------------
-school        |  Outside project    
-------------- |  ---------------
-[Smart city made of cardboard]()     | [arduino]()    |
-[Hydraulic arm made of cardboad]()   |    [BMI app]() |
-     uu   |   [Iot smart home]()                       |
-    hru    |  [self-sustaining colony on the moon]().   |
-     ri   |  [intelligent Home and Health]             |
-     uru   |   [cybersecurity inthe age of Iot]        |
+school                               |  Outside project    
+-------------                        |  ---------------
+[Smart city made of cardboard]()     | [arduino]()                                |
+[Hydraulic arm made of cardboad]()   |    [BMI app]()                             |
+     uu                              |   [Iot smart home]()                       |
+    hru                              |  [self-sustaining colony on the moon]().   |
+     ri                              |  [intelligent Home and Health]             |
+     uru                             |   [cybersecurity inthe age of Iot]         |
         
 
 
