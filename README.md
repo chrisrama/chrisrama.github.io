@@ -66,9 +66,9 @@ Building and Designing
 Playing soccer
 
 Project 
-==================================
-school    |  Outside project    |
-===================================
+-------------------------------
+school    |  Outside project    
+------    |  ----------------
 Smart city made of cardboard.     | arduino blink.    |
 
 Hydraulic arm made of cardboad   |    
