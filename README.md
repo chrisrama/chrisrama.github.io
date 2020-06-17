@@ -2,7 +2,7 @@
 # Hello there
 welcome to christian's official website,here you will learn about me and what I like doing.
 
-# About Me:happy:
+# About Me
 
 I enjoy working so hard in everything I do:smile:. peolpe describe me as a hard working person who never stop in what I am going to do.one thing I believe is that if something has never been done that good, but that doesnt mean I have to follow what others thought of that thinhg to never hard been done. I am fascinated about the world arond us and how thee is everyday change, I want to be part of this change in teaching others to be the change they can be.
 i am currently a member at [the new york academy of sciences](https;//www.nyas.org/) as a member of [the junior academy](https://joinlaunchpad.com/#/profile/9670)
@@ -71,4 +71,12 @@ school        |  Outside project
 ------------- |  ---------------
 [Smart city made of cardboard]()     | [arduino]()    |
 [Hydraulic arm made of cardboad]()   |    [BMI app]() |
+        |   [Iot smart home]()                       |
+        |  [self-sustaining colony on the moon]().   |
+        |  [intelligent Home and Health]             |
+        |   [cybersecurity inthe age of Iot]        |
+        
 
+
+#accomplishment/award
+-
