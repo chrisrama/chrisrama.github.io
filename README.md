@@ -1,5 +1,4 @@
-![Image of me](IMG_20200122_073910_193.jpg)
-(https://drive.google.com/file/d/1Fr-GqyGFyFU6sEaTHqzVMrJveOD2vIV3/view?usp=sharing)!
+![Image of me](ochub.com/christianramazani/5lae27DR5EamvxrRmqjZv1/img-20200122-073910-193-jpg)
 # Hello there
 welcome to christian's official website,here you will learn about me and what I like doing.
 
