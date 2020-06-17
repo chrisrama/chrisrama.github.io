@@ -69,7 +69,7 @@ Project
 -------------------------------
 school    |  Outside project    
 ------    |  ----------------
-Smart city made of cardboard.     | arduino blink.    |
+[Smart city made of cardboard]()     | [arduino]()    |
 
-Hydraulic arm made of cardboad   |    
+[Hydraulic arm made of cardboad]()  |    [BMI app]() |
 
