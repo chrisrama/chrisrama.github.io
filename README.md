@@ -70,6 +70,5 @@ Project
 school    |  Outside project    
 ------    |  ----------------
 [Smart city made of cardboard]()     | [arduino]()    |
-
 [Hydraulic arm made of cardboad]()  |    [BMI app]() |
 
