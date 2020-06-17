@@ -1,4 +1,4 @@
-![](ochub.com/christianramazani/5lae27DR5EamvxrRmqjZv1/img-20200122-073910-193-jp)
+![chris](IMG_20200122_073910_193.jpg)
 # Hello there
 welcome to christian's official website,here you will learn about me and what I like doing.
 
