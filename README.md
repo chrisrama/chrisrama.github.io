@@ -1,12 +1,12 @@
 ![chris](IMG_20200122_073910_193.jpg)
 # Hello there
-welcome to christian's official website,here you will learn about me and what I like doing.
+Welcome to christian's official website, here you will learn about me and what I like doing.
 
 # About Me
 
-I enjoy working so hard in everything I do:smile:. peolpe describe me as a hard working person who never stop in what I am going to do.one thing I believe is that if something has never been done that good, but that doesnt mean I have to follow what others thought of that thinhg to never hard been done. I am fascinated about the world arond us and how thee is everyday change, I want to be part of this change in teaching others to be the change they can be.
-i am currently a member at [the new york academy of sciences](https://www.nyas.org/) as a member of [the junior academy](https://joinlaunchpad.com/#/profile/9670)
-I also enjoy working on cultural programs so to know how to work better with people. *the new york academy of sciences* is one of the great places to do so. I also like doing researches about we should oneday be living. I am also a member of **the space club**
+I enjoy working so hard in everything I do:smile: people describe me as a hard-working person who never stops in what I am going to do. one thing I believe is that if something has never been done that good, but that doesn't mean I have to follow what others thought of that thing to never hard been done. I am fascinated about the world around us and how thee is everyday change, I want to be part of this change in teaching others to be the change they can be.
+I am currently a member at [the new york academy of sciences](https://www.nyas.org/about/our-mission/) as a member of [the junior academy](https://joinlaunchpad.com/#/profile/9670)
+I also enjoy working on cultural programs so to know how to work better with people. *the new york academy of sciences* is one of the great places to do so. I also like doing researches about we should one day be living. I am also a member of **the space club**
 
 School: [cape academy of mathematics, science & technology](https://www.camst.co.za/)
 
@@ -14,7 +14,7 @@ Grade: 10
 
 Date of birth: 05-02-2004 (16years)
 
-Live: South africa
+Live: South Africa
 
 contact details
 -
@@ -36,11 +36,11 @@ contact details
 
 5) Informatics
 
-6) Substainability Technology
+6) Sustainability Technology
 
-7) Intenet of Things
+7) Internet of Things
 
-8) 4th indudtrial revolution,
+8) 4th industrial revolution,
 
 9) Artificial intelligence
 
@@ -53,7 +53,7 @@ English
 
 French
 
-Swhahili
+Swahili
 
 # HOBBIES
 
