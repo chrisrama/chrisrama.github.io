@@ -86,17 +86,28 @@ Coding
 
 Accomplishment & Award
 -
-completed Level 2 English Language Course with [distinction](https://drive.google.com/file/d/1u00crgL7JOqDJQt-momrkaRH3oXKZkXt/view?usp=sharing) at scalabrini.
+completed Level 2 English Language Course with [distinction](https://drive.google.com/file/d/1u00crgL7JOqDJQt-momrkaRH3oXKZkXt/view?usp=sharing) at scalabrini centre of cape town.
+
 [First position](https://drive.google.com/file/d/1yBhKEyY_kStKL5W8FruV2V4bOaXZaYOj/view?usp=sharing) in Grade 7 Region 2 of [Metro Education District Mathematics Competition for primary schools](https://drive.google.com/file/d/1u2QTxLGrToQQMDF8mA3h34Fo-FViKDFS/view?usp=sharing).
+
 Serve as [a Prefect at school](https://drive.google.com/file/d/1yZM7YOixloWPnddmL5Nc4adXvE9blyY7/view?usp=sharing).
+
 [Top Achiever in Mathematics]() of the grade at school.
+
 Pricincipal's [Award](https://drive.google.com/file/d/1y679CaVqOBjcXzEkY8Wz5cT6tSB0msdD/view?usp=sharing), for an [Examplary  and Outsanding Performance](https://drive.google.com/file/d/1yZM7YOixloWPnddmL5Nc4adXvE9blyY7/view?usp=sharing)
-[Highest](https://drive.google.com/file/d/1ygX4WHXnciN_jdNp4CqzpCrJezJrY173/view?usp=sharing) Achiever in [the Grade](https://drive.google.com/file/d/1yaxAWeUrgKzltLI9AqPjS0WNB9q_uRk-/view?usp=sharing) ((8)
+
+[Highest](https://drive.google.com/file/d/1ygX4WHXnciN_jdNp4CqzpCrJezJrY173/view?usp=sharing) Achiever in [the Grade](https://drive.google.com/file/d/1yaxAWeUrgKzltLI9AqPjS0WNB9q_uRk-/view?usp=sharing) (8)
+
 Highest Achiever in [the grade]() (9)
+
 Completed course on [App  for Mobile devices](https://drive.google.com/file/d/1rEYyAzltXd9uGzu_rs5KCuyxMNwCzvB9/view?usp=sharing) using APPInventor
+
 completed Course on [Introduction to the internet of things](https://drive.google.com/file/d/1rFIFxg7mcI_N0PDdEs5T1EOrp6zOgs-s/view?usp=sharing)
+
 Semifinalist on [BP global scholarship](https://afs.org/programs/stem-academy/)
-Completion of one year as a [member New York Academy of Science](https://drive.google.com/file/d/1JAuVi-3-neN5liIvpOIsZF82-K1rhR8J/view?usp=sharing)
+
+Completeted a year as a [member New York Academy of Science](https://drive.google.com/file/d/1JAuVi-3-neN5liIvpOIsZF82-K1rhR8J/view?usp=sharing)
+
 [MBRU community Immunity Ambassador](https://drive.google.com/file/d/1ruJ78-joMc6RsKQ3o2T5dqubFOgoG6Yw/view?usp=sharing)
 
 
