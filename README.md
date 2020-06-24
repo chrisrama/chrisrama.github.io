@@ -65,6 +65,12 @@ Building and Designing
 
 Playing soccer
 
+Riding skateboard
+
+Playing batminton
+
+Coding
+
 # Project 
 
 |    school                                 |  Outside project                           |
@@ -80,4 +86,18 @@ Playing soccer
 
 Accomplishment/Award
 -
+completed Level 2 English Language Course with [distinction]() at scalabrini.
+[First position]() Grade 7 Region 2 of [Metro Education District Mathematics Competition for primary schools]().
+Serve as [a Prefect at school]().
+[Top Achiever in Mathematics]() of the grade at school.
+Pricincipal's [Award](), for an [Examplary  and Outsanding Performance]()
+[Highest]() Achiever in [the Grade]() (8)
+Highest Achiever in [the grade]() (9)
+Completed course on [App  for Mobile devices]() using APPInventor
+completed Course on [Introduction to the internet of things]
+Semifinalist on [BP global scholarship](https://afs.org/programs/stem-academy/)
+Completion of one year as a [member New York Academy of Science]
+[MBRU community Immunity Ambassador]()
+
+
 🚨coming up this Wednesday on #webday update 
