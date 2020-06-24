@@ -75,29 +75,29 @@ Coding
 
 |    school                                 |  Outside project                           |
 | ----------------------------------------- |  ----------------------------------------- |
-| [Smart city made of cardboard]()          |  [arduino]()                               |
-| [Hydraulic arm made of cardboad]()        |  [BMI app]()                               |
-| [nothing much yet]()                      |  [Iot smart home]()                        |
-| [nothing much yet]()                      |  [self-sustaining colony on the moon]().   |
-| [nothing much yet]()                      |  [intelligent Home and Health]()           |
+| [Smart city made of cardboard](https://drive.google.com/file/d/1ynKtql6ab7-lJciYt3kYAnlRUjpfOkqP/view?usp=sharing)         |  arduino   [ 1](https://drive.google.com/file/d/1uNKUTdUuBgmzrF0Cgae2b_qCfhbyqY_U/view?usp=sharing)                               |
+| [Hydraulic arm ](https://drive.google.com/file/d/1xrvltv6EerLTEQkAIlRiejifm5MjF9-v/view?usp=sharing)made of [cardboad](https://drive.google.com/file/d/1xyCF6pf-sk_eK4LVLAAhY40H1fC5u9vT/view?usp=sharing)        |  [BMI app]()                               |
+| [nothing much yet]()                      |  [Iot smart home](https://docs.google.com/document/d/1aiE5mcFn9a48IBZ-sIUouPpg-2NthqTWoqIAM4UnPg8/edit?usp=sharing)                       |
+| [Translating](https://docs.google.com/document/d/1d4usUGK55MC-fcPIZZqBeO_-SGAqTneN46NVZoyAqH4/edit?usp=sharing) [app]()                      |  [self-sustaining colony on the moon](https://drive.google.com/file/d/14YY6RQEwbb0PqExKxY1vgJjOk2gS3oaN/view?usp=sharing) |
+| [nothing much yet]()                      |  [intelligent Home and Health](https://drive.google.com/file/d/1EBKUjKYrPvsE17NhPt9R4A2B-yhBjraK/view?usp=sharing)          |
 | [nothing much yet]()                      |   [cybersecurity inthe age of Iot]()       |
         
 
 
-Accomplishment/Award
+Accomplishment & Award
 -
-completed Level 2 English Language Course with [distinction]() at scalabrini.
-[First position]() Grade 7 Region 2 of [Metro Education District Mathematics Competition for primary schools]().
-Serve as [a Prefect at school]().
+completed Level 2 English Language Course with [distinction](https://drive.google.com/file/d/1u00crgL7JOqDJQt-momrkaRH3oXKZkXt/view?usp=sharing) at scalabrini.
+[First position](https://drive.google.com/file/d/1yBhKEyY_kStKL5W8FruV2V4bOaXZaYOj/view?usp=sharing) in Grade 7 Region 2 of [Metro Education District Mathematics Competition for primary schools](https://drive.google.com/file/d/1u2QTxLGrToQQMDF8mA3h34Fo-FViKDFS/view?usp=sharing).
+Serve as [a Prefect at school](https://drive.google.com/file/d/1yZM7YOixloWPnddmL5Nc4adXvE9blyY7/view?usp=sharing).
 [Top Achiever in Mathematics]() of the grade at school.
-Pricincipal's [Award](), for an [Examplary  and Outsanding Performance]()
-[Highest]() Achiever in [the Grade]() (8)
+Pricincipal's [Award](https://drive.google.com/file/d/1y679CaVqOBjcXzEkY8Wz5cT6tSB0msdD/view?usp=sharing), for an [Examplary  and Outsanding Performance](https://drive.google.com/file/d/1yZM7YOixloWPnddmL5Nc4adXvE9blyY7/view?usp=sharing)
+[Highest](https://drive.google.com/file/d/1ygX4WHXnciN_jdNp4CqzpCrJezJrY173/view?usp=sharing) Achiever in [the Grade](https://drive.google.com/file/d/1yaxAWeUrgKzltLI9AqPjS0WNB9q_uRk-/view?usp=sharing) ((8)
 Highest Achiever in [the grade]() (9)
-Completed course on [App  for Mobile devices]() using APPInventor
-completed Course on [Introduction to the internet of things]
+Completed course on [App  for Mobile devices](https://drive.google.com/file/d/1rEYyAzltXd9uGzu_rs5KCuyxMNwCzvB9/view?usp=sharing) using APPInventor
+completed Course on [Introduction to the internet of things](https://drive.google.com/file/d/1rFIFxg7mcI_N0PDdEs5T1EOrp6zOgs-s/view?usp=sharing)
 Semifinalist on [BP global scholarship](https://afs.org/programs/stem-academy/)
-Completion of one year as a [member New York Academy of Science]
-[MBRU community Immunity Ambassador]()
+Completion of one year as a [member New York Academy of Science](https://drive.google.com/file/d/1JAuVi-3-neN5liIvpOIsZF82-K1rhR8J/view?usp=sharing)
+[MBRU community Immunity Ambassador](https://drive.google.com/file/d/1ruJ78-joMc6RsKQ3o2T5dqubFOgoG6Yw/view?usp=sharing)
 
 
-🚨coming up this Wednesday on #webday update 
+🚨 more coming up this Wednesday on #webday update 
