@@ -1,4 +1,5 @@
 ![chris](IMG_20200122_073910_193.jpg)
+ # Failure is an option here. if things are not falling then you are not innovating.- '''Elon Musk'''
 # Hello there
 Welcome to christian's official website, here you will learn about me and what I like doing.
 
