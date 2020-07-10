@@ -111,5 +111,7 @@ Completeted a year as a [member New York Academy of Science](https://drive.googl
 
 [MBRU community Immunity Ambassador](https://drive.google.com/file/d/1ruJ78-joMc6RsKQ3o2T5dqubFOgoG6Yw/view?usp=sharing)
 
+#religious Practice 
+christian science is my Church. I am very religious person in everything I do.
 
 🚨 more coming up this Wednesday on #webday update 
