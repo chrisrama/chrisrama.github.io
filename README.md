@@ -80,8 +80,8 @@ Coding
 | [Hydraulic arm ](https://drive.google.com/file/d/1xrvltv6EerLTEQkAIlRiejifm5MjF9-v/view?usp=sharing)made of [cardboad](https://drive.google.com/file/d/1xyCF6pf-sk_eK4LVLAAhY40H1fC5u9vT/view?usp=sharing)        |  [BMI app]()                               |
 | [nothing much yet]()                      |  [Iot smart home](https://docs.google.com/document/d/1aiE5mcFn9a48IBZ-sIUouPpg-2NthqTWoqIAM4UnPg8/edit?usp=sharing)                       |
 | [Translating](https://docs.google.com/document/d/1d4usUGK55MC-fcPIZZqBeO_-SGAqTneN46NVZoyAqH4/edit?usp=sharing) [app]()                      |  [self-sustaining colony on the moon](https://drive.google.com/file/d/14YY6RQEwbb0PqExKxY1vgJjOk2gS3oaN/view?usp=sharing) |
-| [nothing much yet]()                      |  [intelligent Home and Health](https://drive.google.com/file/d/1EBKUjKYrPvsE17NhPt9R4A2B-yhBjraK/view?usp=sharing)          |
-| [nothing much yet]()                      |   [cybersecurity inthe age of Iot]()       |
+| [nothing yet]()                      |  [intelligent Home and Health](https://drive.google.com/file/d/1EBKUjKYrPvsE17NhPt9R4A2B-yhBjraK/view?usp=sharing)          |
+| [nothing yet]()                      |   [cybersecurity in the age of Iot]()       |
         
 
 
