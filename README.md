@@ -21,8 +21,6 @@ contact details
 -
 [facebook](https://www.facebook.com/chris.rama.798)
 
-[twitter](https://www.twitter.com/Chrisrama6?s=09)
-
 [linkedIn](https://www.lInkedin.com/in/christian-ramazani-aa3887183)
 
 **Skills and Interests**
